@@ -1,0 +1,16 @@
+.rideContainer{
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.header{
+
+    height: 700px;
+    width: 100%;
+    background-position: center center;
+    background-size: 100% 100%;
+}
+

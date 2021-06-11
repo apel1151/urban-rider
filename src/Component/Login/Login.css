@@ -1,0 +1,9 @@
+.login{
+   text-align: center;
+}
+
+.login-panel{
+    border: 3px solid gray;
+    margin-left: 500px;
+    margin-right: 500px;
+}
